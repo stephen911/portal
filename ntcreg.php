@@ -288,6 +288,7 @@ $user = users();
                                         </div>
 
 
+                                        <div id="region_districts">
 
                                         <div id="Greater Accra" style="display: none;">
 
@@ -832,6 +833,7 @@ $user = users();
                                                 </div>
                                             </div>
                                         </div>
+                                                            </div>
 
 
 
